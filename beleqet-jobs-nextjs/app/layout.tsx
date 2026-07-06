@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: "Beleqet Jobs | Find Your Next Opportunity Faster",
   description:
     "Search verified jobs from trusted employers across Ethiopia. Discover thousands of job opportunities, get instant alerts on Telegram, and apply faster with Beleqet Vacancy Platform.",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
